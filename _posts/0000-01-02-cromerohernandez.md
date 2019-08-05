@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Passion and perseverence are what separate successful entrepreneurs from failures"
 Use the left arrow to go back!
